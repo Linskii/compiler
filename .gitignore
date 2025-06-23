@@ -2,3 +2,7 @@
 # pixi environments
 .pixi
 *.egg-info
+
+# Python cache files
+__pycache__/
+*.py[cod]
